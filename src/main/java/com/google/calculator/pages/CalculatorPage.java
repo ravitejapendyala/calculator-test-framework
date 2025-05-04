@@ -22,6 +22,8 @@ public class CalculatorPage {
     private static final By DIVIDE_BUTTON = By.xpath("//div[@role='button' and text()='÷']");
     private static final By EQUALS_BUTTON = By.xpath("//div[@role='button' and text()='=']");
     private static final By AC_BUTTON = By.xpath("//div[@role='button' and text()='AC']");
+
+    private static final By CE_BUTTON = By.xpath("//div[@role='button' and text()='CE']");
     private static final By DECIMAL_BUTTON = By.xpath("//div[@role='button' and text()='.']");
 
     public CalculatorPage(WebDriver driver) {
@@ -84,6 +86,9 @@ public class CalculatorPage {
 
     public void clearCalculator() {
         driver.findElement(AC_BUTTON).click();
+    }
+    public void clearCalculatorCE() {
+        driver.findElement(CE_BUTTON).click();
     }
 
     public void clickDecimalPoint() {

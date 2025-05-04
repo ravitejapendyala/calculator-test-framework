@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8b0970f-d381-480b-8a76-a9214c11f700" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/google/calculator/pages/CalculatorPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/google/calculator/pages/CalculatorPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/google/calculator/tests/ArithmeticOperationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/google/calculator/tests/ArithmeticOperationsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/google/calculator/tests/SpecialFunctionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/google/calculator/tests/SpecialFunctionsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,7 @@
     "last_opened_file_path": "C:/Users/1021285/OneDrive - Blue Yonder/Personal/JavaProjects/calculator-test-framework/testng.xml"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.ArithmeticOperationsTest.testChainedOperations">
+  <component name="RunManager" selected="TestNG.ArithmeticOperationsTest.testClearFunctionality">
     <configuration name="ArithmeticOperationsTest.testAddition" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="calculator-test-framework" />
       <extension name="coverage">
@@ -71,6 +72,42 @@
       <option name="PACKAGE_NAME" value="com.google.calculator.tests" />
       <option name="MAIN_CLASS_NAME" value="com.google.calculator.tests.ArithmeticOperationsTest" />
       <option name="METHOD_NAME" value="testChainedOperations" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArithmeticOperationsTest.testClearFunctionality" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="calculator-test-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.google.calculator.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.google.calculator.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.google.calculator.tests.ArithmeticOperationsTest" />
+      <option name="METHOD_NAME" value="testClearFunctionality" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArithmeticOperationsTest.testDecimalAddition" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="calculator-test-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.google.calculator.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.google.calculator.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.google.calculator.tests.ArithmeticOperationsTest" />
+      <option name="METHOD_NAME" value="testDecimalAddition" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -120,10 +157,14 @@
       <item itemvalue="TestNG.TestNG" />
       <item itemvalue="TestNG.ArithmeticOperationsTest.testAddition" />
       <item itemvalue="TestNG.ArithmeticOperationsTest.testChainedOperations" />
+      <item itemvalue="TestNG.ArithmeticOperationsTest.testClearFunctionality" />
+      <item itemvalue="TestNG.ArithmeticOperationsTest.testDecimalAddition" />
       <item itemvalue="TestNG.ArithmeticOperationsTest.testSubtraction" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ArithmeticOperationsTest.testClearFunctionality" />
+        <item itemvalue="TestNG.ArithmeticOperationsTest.testDecimalAddition" />
         <item itemvalue="TestNG.ArithmeticOperationsTest.testChainedOperations" />
         <item itemvalue="TestNG.ArithmeticOperationsTest.testSubtraction" />
         <item itemvalue="TestNG.ArithmeticOperationsTest.testAddition" />
@@ -157,7 +198,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/google/calculator/pages/CalculatorPage.java</url>
-          <line>97</line>
+          <line>102</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

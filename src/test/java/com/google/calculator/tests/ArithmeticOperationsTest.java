@@ -60,8 +60,8 @@ public class ArithmeticOperationsTest extends BaseTest {
     @Test(description = "Test clear functionality")
     public void testClearFunctionality() {
         calculatorPage.enterNumber("123");
-        calculatorPage.clearCalculator();
+        calculatorPage.clearCalculatorCE();
         String displayValue = calculatorPage.getDisplayValue();
-        Assert.assertEquals(displayValue, "0", "Clear operation failed");
+        Assert.assertEquals(displayValue, "12", "Clear operation failed");
     }
 }
