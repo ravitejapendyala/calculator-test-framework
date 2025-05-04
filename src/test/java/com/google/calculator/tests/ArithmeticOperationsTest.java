@@ -56,4 +56,12 @@ public class ArithmeticOperationsTest extends BaseTest {
         double result = TestUtils.parseDisplayValue(calculatorPage.getDisplayValue());
         Assert.assertEquals(result, 7.0, "Chained operation failed");
     }
+
+    @Test(description = "Test clear functionality")
+    public void testClearFunctionality() {
+        calculatorPage.enterNumber("123");
+        calculatorPage.clearCalculator();
+        String displayValue = calculatorPage.getDisplayValue();
+        Assert.assertEquals(displayValue, "0", "Clear operation failed");
+    }
 }

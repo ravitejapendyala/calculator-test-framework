@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8b0970f-d381-480b-8a76-a9214c11f700" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/google/calculator/utils/TestUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/google/calculator/utils/TestUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/google/calculator/tests/ArithmeticOperationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/google/calculator/tests/ArithmeticOperationsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/google/calculator/tests/SpecialFunctionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/google/calculator/tests/SpecialFunctionsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
