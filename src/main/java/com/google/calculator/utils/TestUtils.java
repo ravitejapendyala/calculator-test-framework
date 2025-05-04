@@ -7,7 +7,4 @@ public class TestUtils {
         return Double.parseDouble(displayValue.replace(",", ""));
     }
 
-    public static boolean isApproximatelyEqual(double actual, double expected, double tolerance) {
-        return Math.abs(actual - expected) <= tolerance;
-    }
 }

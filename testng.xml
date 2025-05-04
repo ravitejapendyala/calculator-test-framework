@@ -6,7 +6,6 @@
         <parameter name="headless" value="false"/>
         <classes>
             <class name="com.google.calculator.tests.ArithmeticOperationsTest"/>
-<!--            <class name="com.google.calculator.tests.SpecialFunctionsTest"/>-->
         </classes>
     </test>
     <!-- Uncomment to run with Firefox as well
