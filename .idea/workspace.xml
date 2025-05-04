@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8b0970f-d381-480b-8a76-a9214c11f700" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/jvm.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/maven.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/google/calculator/config/ConfigurationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/google/calculator/driver/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/google/calculator/pages/CalculatorPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/google/calculator/utils/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/google/calculator/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/google/calculator/tests/ArithmeticOperationsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/google/calculator/tests/SpecialFunctionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2wd3mtS7xwrZp6uXDfkAm31NXnE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "C:/Users/1021285/OneDrive - Blue Yonder/Personal/JavaProjects/calculator-test-framework/src/test/java",
+    "last_opened_file_path": "C:/Users/1021285/OneDrive - Blue Yonder/Personal/JavaProjects/calculator-test-framework/testng.xml"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.ArithmeticOperationsTest.testChainedOperations">
+    <configuration name="ArithmeticOperationsTest.testAddition" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="calculator-test-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.google.calculator.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.google.calculator.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.google.calculator.tests.ArithmeticOperationsTest" />
+      <option name="METHOD_NAME" value="testAddition" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArithmeticOperationsTest.testChainedOperations" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="calculator-test-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.google.calculator.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.google.calculator.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.google.calculator.tests.ArithmeticOperationsTest" />
+      <option name="METHOD_NAME" value="testChainedOperations" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArithmeticOperationsTest.testSubtraction" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="calculator-test-framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.google.calculator.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.google.calculator.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.google.calculator.tests.ArithmeticOperationsTest" />
+      <option name="METHOD_NAME" value="testSubtraction" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG" type="TestNG">
+      <module name="calculator-test-framework" />
+      <shortenClasspath name="NONE" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="18" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestNG" />
+      <item itemvalue="TestNG.ArithmeticOperationsTest.testAddition" />
+      <item itemvalue="TestNG.ArithmeticOperationsTest.testChainedOperations" />
+      <item itemvalue="TestNG.ArithmeticOperationsTest.testSubtraction" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ArithmeticOperationsTest.testChainedOperations" />
+        <item itemvalue="TestNG.ArithmeticOperationsTest.testSubtraction" />
+        <item itemvalue="TestNG.ArithmeticOperationsTest.testAddition" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8b0970f-d381-480b-8a76-a9214c11f700" name="Changes" comment="" />
+      <created>1746357786557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746357786557</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/google/calculator/pages/CalculatorPage.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
